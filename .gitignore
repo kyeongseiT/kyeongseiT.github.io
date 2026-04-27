@@ -5,3 +5,6 @@ _site
 vendor
 .DS_Store
 .claude/
+node_modules
+assets/js/dist
+_sass/vendors
